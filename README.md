@@ -1,6 +1,5 @@
 # Интерактивная карта г. Советск
-https://github.com/1989Zhanna/Project-3-Sovetsk/blob/main/index.html
-
+https://github.com/1989Zhanna/Project-3-Sovetsk/
 ## Описание
 Интерактивная карта для отдела архитектуры города Советск Калининградской области
 
